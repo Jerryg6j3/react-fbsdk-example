@@ -1,3 +1,9 @@
+To run the project:
+1. `npm install`
+2. Plugin your Facebook App ID to line 13 of src/App.js
+3. `npm run start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
